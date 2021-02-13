@@ -1,14 +1,14 @@
 # Hello!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alvarodl.alvarodl)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=alvarodl.alvarodl)](https://visitor-badge.glitch.me/badge?page_id=alvarodl.alvarodl)
 
 <br />
 
 <a href="https://twitter.com/alvarodlVR">
-  <img align="left" alt="Alvaro Dominguez Lopez | Twitter" width="21px" src="https://raw.githubusercontent.com/alvarodl/alvarodl/master/assets/twitter.svg" />
+  <img align="left" alt="Alvaro Dominguez Lopez | Twitter" height="21px" width="21px" src="https://raw.githubusercontent.com/alvarodl/alvarodl/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alvaro-dominguez-lopez/">
-  <img align="left" alt="Alvaro Dominguez Lopez | Linkedin" width="21px" style="margin-left: 10px" src="https://raw.githubusercontent.com/alvarodl/alvarodl/master/assets/linkedin.svg" />
+  <img align="left" alt="Alvaro Dominguez Lopez | Linkedin" height="21px" width="21px" style="margin-left: 10px" src="https://raw.githubusercontent.com/alvarodl/alvarodl/master/assets/linkedin.svg" />
 </a>
 
 <br />

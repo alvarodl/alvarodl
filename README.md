@@ -17,7 +17,7 @@
 Hi, I'm Álvaro Domínguez López, a passionate self-taught full stack developer from Spain.
 
 - 🔭 I’m currently working on Plain Concepts
-- 🌱 I’m currently learning Terraform
+- 🌱 I’m currently learning Terraform and Elixir
 - 📫 How to reach me: alvarodl20@outlook.com
 
 **Languages and Tools:**

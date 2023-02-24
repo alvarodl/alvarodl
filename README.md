@@ -9,7 +9,7 @@
 Hi, I'm Álvaro Domínguez López, a passionate self-taught full stack developer from Spain.
 
 - 🔭 I’m currently working on Plain Concepts
-- 🌱 I’m currently learning Elixir and Remix
+- 🌱 I’m currently learning Elixir and Svelte
 - 📫 How to reach me: alvarodl20@outlook.com
 
 <br />
